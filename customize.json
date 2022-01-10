@@ -1,14 +1,14 @@
 {
   "greeting": "Hi",
-  "name": "Syafiqah",
-  "greetingText": "Birthday Princess!",
-  "wishText": "May Allah bless you with your family! ;)",
+  "name": "Ma",
+  "greetingText": "Birthday Princess",
+  "wishText": "May Allah bless you ma ",
   "imagePath": "img/Princess.jpeg",
-  "text1": "It's your birthday!!! <3",
-  "textInChatBox": "Happy birthday to you!!",
+  "text1": "Birthday you lah harini <3",
+  "textInChatBox": " Happy Birthday to you...",
   "sendButtonLabel": "Send",
   "text2": "That's what I was going to do.",
-  "text3": "But then I stopped.",
+  "text3": "But then ",
   "text4": "I realised, I wanted to do something",
   "text4Adjective": "special",
   "text5Entry": "Because,",
@@ -17,7 +17,7 @@
   "bigTextPart1": "S",
   "bigTextPart2": "O",
   "wishHeading": "Happy Birthday!",
-  "outroText": "Okay, now come back and tell me if you liked it.",
-  "replayText": "Kbye Kambing.",
+  
+  "replayText": "Kbye Kambing",
   "outroSmiley": ":)"
 }
