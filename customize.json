@@ -1,11 +1,11 @@
 {
   "greeting": "Hi",
-  "name": "Ma",
+  "name": "You",
   "greetingText": "Birthday Princess",
   "wishText": "May Allah bless you ma ",
   "imagePath": "img/Princess.jpeg",
-  "text1": "Birthday you lah harini <3",
-  "textInChatBox": " Happy Birthday to you...",
+  "text1": "It's your birthday <3",
+  "textInChatBox": "Happy birthday to you...",
   "sendButtonLabel": "Send",
   "text2": "That's what I was going to do.",
   "text3": "But then ",
@@ -16,8 +16,8 @@
   "smiley": ":)",
   "bigTextPart1": "S",
   "bigTextPart2": "O",
-  "wishHeading": "Happy Birthday!",
-  
-  "replayText": "Kbye Kambing",
+  "wishHeading": "Happy Birthday",
+  "outroText": "Okay, now come back and tell me if you loved it.",
+  "replayText": "Kbye Kambing.",
   "outroSmiley": ":)"
 }
